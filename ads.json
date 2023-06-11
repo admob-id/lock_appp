@@ -25,33 +25,16 @@
   "product": [],
   "apps": [
       {
-      "packageName":"com.mcpecenter.skins.minecraftpe",
-      "appName":"Skin for Minecraft PE",
+      "packageName":"com.mcpecenter.mods.maps.minecraftpe",
+      "appName":"Mods AddOns for Minecraft PE",
       "appDes":"Collection of 1000++ skins for Minecraft Pocket Edition",
-      "appThumbnail":"https://play-lh.googleusercontent.com/393v5oDLLYks8k0G-gk5uazi-hzPFfrEVPmzrU0JEQBNmAZU16uyXA1efdUTxq52h40x=s9999-rw",
+      "appThumbnail":"https://play-lh.googleusercontent.com/2-fnV9YxIferzJxoqLliHbAtUW0ZluMQB6eMLHAk5dWzRi3WaRyKwQ-Lskr8TQ27Yq86=w480-h960-rw",
       "appImages":[
-                    "https://play-lh.googleusercontent.com/ftonC2f67VK9D5kSN2Qw0HuE6DYr8Bgt4BtkWusp-Ptv0lCh7IkJ-YAcI0D-eKtnww=w1440-h999",
-                    "https://play-lh.googleusercontent.com/PMwKtxHA0sJzTStZO18_cAUuWoWTX9t2YyRBzDlb2JpZMEmuzaPoQs1WzyE3QD1OC-M=w1440-h620-rw",
-                    "https://play-lh.googleusercontent.com/Cybl47FC48Z2C_2-p0MForIL7L15bOfmra3smmqNalb77UkwM91H7BMukrLvgAv2ob8=w1440-h620-rw",
-                    "https://play-lh.googleusercontent.com/GYGrub7-aLnJtg3kyUz4z1RY5C0cw3ocScf4hPlCPqNE7CA5r8NXAO2PXERS1Ozoffk=w1440-h620-rw",
-                    "https://play-lh.googleusercontent.com/giCUgd3f55R2Hpop2Ha2bT8VjX3Uo5bx-IATLGBtkiIikm5HMPA3wP75jsviR3-5QQ=w1440-h620-rw",
-                    "https://play-lh.googleusercontent.com/jQ6rslLJEwkvC7Frokjm18EHhwxp795-UqcKIUmh6MP8OPg4PMQT-jImn9i4p1kIzg=w1440-h620-rw",
-                    "https://play-lh.googleusercontent.com/BS9NiqTKo2OjUV2lEnaEQpLhp7EqZYUKAIQKzz9y150-DOsjqNe5jZ5qgcMPRuM9KDdJ=w1440-h620-rw"
-                 ]
-    },
-    {
-      "packageName":"com.guns.weapons.mods.mcpe",
-      "appName":"Guns For Minecraft",
-      "appDes":"Guns For MCPE is a collection a lot guns, addon and mod for Minecraft",
-      "appThumbnail":"https://play-lh.googleusercontent.com/Y1MmDF_mxRQi-M5RvI7AO0HevZwsgbOlVxBwj2ZjEvfR8pezvwq1tENJmy47NXyHmkE=s900",
-      "appImages":[
-                    "https://play-lh.googleusercontent.com/XbfhNZwCxtMbOF1ERLTYaEcFQya_c2u-_puA4MVet4xKPRP1umdkXxPPmqWpdhloqM1H=w1440-h620-rw",
-                    "https://play-lh.googleusercontent.com/60EURqeIYb8RDGUtk7TVYGKR6zeWzMBbVSVW3HCrKDW2EhK9G84F2EsMMV0HqxJ47GM=w1440-h620-rw",
-                    "https://play-lh.googleusercontent.com/Sh8gfpRe_uQSHKQY5ysiD5sgLVZRVdtjZoW2iHURm86NfNUPNpctRXxYJL6X3oUDvA=w1440-h620-rw",
-                    "https://play-lh.googleusercontent.com/5bDBSr_lWk_11rR7Q8rtPDi4ItyJkdZXKctPcUV7ckDwN2f7LJ3XzEUfCAUQwD4SmAA=w1440-h620-rw",
-                    "https://play-lh.googleusercontent.com/YoK75N3pHr6nyQZdPZapEWHoUEaslkvq9T0nW_FplCtoh-GfTnHZp8PgAyQ5GdKYYLC-=w1440-h620-rw",
-                    "https://play-lh.googleusercontent.com/m0Nw1r9vIT1fEvRLe7ObBU4QU_xdcDEW7xWpfIuw96hCXLbmUk1-O0NGp7RTpQ-olOc=w1440-h620-rw",
-                    "https://play-lh.googleusercontent.com/B_BI5Qv6ChCLFjucd91GtP1Vv4egGxHpsB11yPe-MHmozRJ_VV14eI99JgRjBff1XdM=w1440-h620-rw"
+                    "https://play-lh.googleusercontent.com/qZWc6ReXDcB6cSLCElZW4HzEeJ_lNhaTGftwllgAx_LXQg-XjNVUNx0vz2aoMFUd--ia=w1052-h592-rw",
+                    "https://play-lh.googleusercontent.com/cA-PqgY4RQoFbiJ4GBItzckeCHqznRaD0pa_jTYHiIqKkPaOqCZU4UF-20XjCTigKWtB=w1052-h592-rw",
+                    "https://play-lh.googleusercontent.com/1COaYHLxIMZsPMNeRMkk9jU_eSBfUtC5yazbybp5RV4RQQSwXP4QG-fxuZpxnq-ubA=w1052-h592-rw",
+                    "https://play-lh.googleusercontent.com/3yZEsjv8j-23_F3kmVRHccHVfq3BoMf720lWSfcATF2Iihz7SO2ZA4VPD2RZNjbOy0Y=w1052-h592-rw",
+                    "https://play-lh.googleusercontent.com/9S1iz1WTpIUcnGc14nvQNivdy4NpOiByD7Xt3OJCKR6uBn5xbrjOHylpBFbZW8kp0sw=w1052-h592-rw"
                  ]
     },
     {
